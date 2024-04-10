@@ -8,3 +8,19 @@
 .ml-auto {
   margin-left: auto;
 }
+
+.intro-header{
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(images/code.jpg);
+position: relative;
+width: 100%;
+height: auto;
+}
+
+.intro-text{
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
