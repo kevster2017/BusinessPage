@@ -1,10 +1,10 @@
 /* Navbar */
 
-#navButton { 
-  margin-right: 10px;
-  width: 10%;
+.navbar-nav {
+  width: 100%;
 }
 
-.menu {
 
+.ml-auto {
+  margin-left: auto;
 }
