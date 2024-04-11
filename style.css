@@ -81,3 +81,9 @@ color: white;
  width: 100%;
  max-height: 450px;
 }
+
+.company-news {
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 7%;
+}
