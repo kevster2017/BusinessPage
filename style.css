@@ -18,18 +18,25 @@
   
 }
 
-.intro-header{
+#intro-header{
 display: flex;
 justify-content: center;
 align-items: center;
-background-image: url(images/code.jpg);
 position: relative;
 width: 100%;
-height: auto;
+height: 600px;
+text-align: center;
+color: white;
 }
 
 .intro-text{
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#learn-btn {
+  text-align: center;
 }
