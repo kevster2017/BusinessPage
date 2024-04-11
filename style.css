@@ -55,3 +55,13 @@ color: white;
   font-weight: 400;
   text-align: center;
 }
+
+/* Believe in section */
+
+.believeIn{
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 7%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
