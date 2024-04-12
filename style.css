@@ -4,13 +4,18 @@
   width: 100%;
 }
 
-.btn{
-  width: 15%;
+.learn-btn, .contact-us{
+  width: 150px;
   margin-top: 15px;
   margin-bottom: 15px;
   margin-right: 20px;
   background-color: black;
   color: white;
+}
+
+#learnMore:hover {
+  background-color: whitesmoke;
+  color: black;
 }
 
 .ml-auto {
@@ -88,14 +93,26 @@ color: white;
 
 .text-small{
   font-size: small;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 /* Grow Business Section */
 
 .grow-business{
-  background-color: grey;
+  background-color: rgb(246, 242, 242);
   text-align: center;
   padding-top: 7%;
   padding-bottom: 7%;
 
+}
+
+
+#start-now{
+  width: 150px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 20px;
+  background-color: black;
+  color: white;
 }
