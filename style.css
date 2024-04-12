@@ -86,6 +86,10 @@ color: white;
   padding-bottom: 7%;
 }
 
+.text-small{
+  font-size: small;
+}
+
 /* Grow Business Section */
 
 .grow-business{
