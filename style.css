@@ -4,7 +4,7 @@
   width: 100%;
 }
 
-#navButton{
+.btn{
   width: 15%;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -37,9 +37,7 @@ color: white;
   color: white;
 }
 
-#learn-btn {
-  text-align: center;
-}
+
 
 #h1-grow {
   font-size: 64px;
@@ -86,4 +84,14 @@ color: white;
   text-align: center;
   padding-top: 7%;
   padding-bottom: 7%;
+}
+
+/* Grow Business Section */
+
+.grow-business{
+  background-color: grey;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 7%;
+
 }
