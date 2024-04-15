@@ -11,9 +11,10 @@
   margin-right: 20px;
   background-color: black;
   color: white;
+  border: 1px solid white;
 }
 
-#learnMore:hover {
+#learnMore:hover, #start-now:hover {
   background-color: whitesmoke;
   color: black;
 }
@@ -119,4 +120,5 @@ background-size: cover;
   margin-right: 20px;
   background-color: black;
   color: white;
+  border: 1px solid white;
 }
